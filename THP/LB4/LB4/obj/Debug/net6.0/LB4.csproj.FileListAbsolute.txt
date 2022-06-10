@@ -1,0 +1,15 @@
+C:\Users\rogac\source\repos\LB4\LB4\obj\Debug\net6.0\LB4.csproj.AssemblyReference.cache
+C:\Users\rogac\source\repos\LB4\LB4\obj\Debug\net6.0\LB4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rogac\source\repos\LB4\LB4\obj\Debug\net6.0\LB4.AssemblyInfoInputs.cache
+C:\Users\rogac\source\repos\LB4\LB4\obj\Debug\net6.0\LB4.AssemblyInfo.cs
+C:\Users\rogac\source\repos\LB4\LB4\obj\Debug\net6.0\LB4.csproj.CoreCompileInputs.cache
+C:\Users\rogac\source\repos\LB4\LB4\bin\Debug\net6.0\LB4.deps.json
+C:\Users\rogac\source\repos\LB4\LB4\bin\Debug\net6.0\LB4.dll
+C:\Users\rogac\source\repos\LB4\LB4\bin\Debug\net6.0\LB4.pdb
+C:\Users\rogac\source\repos\LB4\LB4\bin\Debug\net6.0\Necklace.dll
+C:\Users\rogac\source\repos\LB4\LB4\bin\Debug\net6.0\Necklace.pdb
+C:\Users\rogac\source\repos\LB4\LB4\obj\Debug\net6.0\LB4.csproj.CopyComplete
+C:\Users\rogac\source\repos\LB4\LB4\obj\Debug\net6.0\LB4.dll
+C:\Users\rogac\source\repos\LB4\LB4\obj\Debug\net6.0\refint\LB4.dll
+C:\Users\rogac\source\repos\LB4\LB4\obj\Debug\net6.0\LB4.pdb
+C:\Users\rogac\source\repos\LB4\LB4\obj\Debug\net6.0\ref\LB4.dll

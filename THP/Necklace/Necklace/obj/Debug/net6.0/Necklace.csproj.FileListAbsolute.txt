@@ -1,0 +1,12 @@
+C:\Users\rogac\source\repos\Necklace\Necklace\obj\Debug\net6.0\Necklace.csproj.AssemblyReference.cache
+C:\Users\rogac\source\repos\Necklace\Necklace\obj\Debug\net6.0\Necklace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rogac\source\repos\Necklace\Necklace\obj\Debug\net6.0\Necklace.AssemblyInfoInputs.cache
+C:\Users\rogac\source\repos\Necklace\Necklace\obj\Debug\net6.0\Necklace.AssemblyInfo.cs
+C:\Users\rogac\source\repos\Necklace\Necklace\obj\Debug\net6.0\Necklace.csproj.CoreCompileInputs.cache
+C:\Users\rogac\source\repos\Necklace\Necklace\bin\Debug\net6.0\Necklace.deps.json
+C:\Users\rogac\source\repos\Necklace\Necklace\bin\Debug\net6.0\Necklace.dll
+C:\Users\rogac\source\repos\Necklace\Necklace\bin\Debug\net6.0\Necklace.pdb
+C:\Users\rogac\source\repos\Necklace\Necklace\obj\Debug\net6.0\Necklace.dll
+C:\Users\rogac\source\repos\Necklace\Necklace\obj\Debug\net6.0\refint\Necklace.dll
+C:\Users\rogac\source\repos\Necklace\Necklace\obj\Debug\net6.0\Necklace.pdb
+C:\Users\rogac\source\repos\Necklace\Necklace\obj\Debug\net6.0\ref\Necklace.dll
